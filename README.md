@@ -9,9 +9,9 @@ project run the : Main.java File then
 
 ******************************************
 
-admin username : 
+
 ------------------------------
-admin password :
+
 
 ******************************
 
